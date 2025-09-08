@@ -7,7 +7,7 @@ public class CyclicS {
         int[] arr = {3, 5, 2, 1, 4};
         sort(arr);
         System.out.println(Arrays.toString(arr));
-        // when num given in range of 1 ot n
+        // when num given in range of 1 to n
     }
     static void sort(int[] arr){
         int i = 0;
