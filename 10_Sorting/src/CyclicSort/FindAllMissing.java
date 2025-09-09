@@ -3,8 +3,15 @@ package CyclicSort;
 import java.util.ArrayList;
 import java.util.List;
 
+// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+// Asked in Google
+
 class FindAllMissing {
-    public List<Integer> findDisappearedNum(int[] nums){
+    public static void main(String[] args) {
+        int[] arr = {4,3,2,7,8,2,3,1};
+        System.out.println(findDisappearedNum(arr));
+    }
+    public static List<Integer> findDisappearedNum(int[] nums){
         int i = 0;
         while(i < nums.length){
             int correct = nums[i] - 1;
@@ -18,7 +25,7 @@ class FindAllMissing {
         // just find missing num
         List<Integer> ans = new ArrayList<>();
         for (int index = 0; index < nums.length; index++) {
-            if(nums[index] != index){
+            if(nums[index] != index+1){
                 ans.add(index + 1);
             }
         }
