@@ -27,4 +27,5 @@ public class SetBits {
 //        }
         return count;
     }
+    // This code tells you how many times “1” appears in the binary form of a number
 }
