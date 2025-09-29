@@ -1,4 +1,4 @@
-package code;
+package BitwiseOp_NumSystem;
 
 public class FindUnique {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package code;
+package BitwiseOp_NumSystem;
 
 public class PascalsTriangle {
     public static void main(String[] args) {

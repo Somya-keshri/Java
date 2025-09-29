@@ -1,4 +1,4 @@
-package code;
+package BitwiseOp_NumSystem;
 
 public class MagicNumber {
     // This program generates a magic number sequence where binary digits are mapped to powers of 5 instead of powers of 2.

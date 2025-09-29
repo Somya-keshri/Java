@@ -1,4 +1,4 @@
-package code;
+package BitwiseOp_NumSystem;
 
 import java.util.Scanner;
 
