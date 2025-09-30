@@ -1,8 +1,4 @@
-<<<<<<< HEAD:15_MathsForDSA/src/BitwiseOp_NumSystem/RangeXOR.java
 package BitwiseOp_NumSystem;
-=======
-package code;
->>>>>>> 4beeee829ec6f6a894041b58168b86392b919b34:15_MathsForDSA/src/code/RangeXOR.java
 
 import java.util.Scanner;
 
