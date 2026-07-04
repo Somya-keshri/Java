@@ -1,8 +1,4 @@
-package Introduction;
-
-import java.sql.Struct;
-import java.util.ArrayList;
-import java.util.Arrays;
+package code.Introduction;
 
 public class Main  {
     public static void main(String[] args) {
