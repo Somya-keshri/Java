@@ -16,7 +16,7 @@ public class Ass11 {
                 System.out.print("  ");
             }
             for (int col = 1; col <= 2*row-1; col++) {
-                if(col<=n){
+                if(col<=row){
                     System.out.print(col + " ");
                 }
                 else {
