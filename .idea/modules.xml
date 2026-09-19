@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_First_Java_Prog/04_First_Java_Prog.iml" filepath="$PROJECT_DIR$/04_First_Java_Prog/04_First_Java_Prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Conditionals_and_Loops/05_Conditionals_and_Loops.iml" filepath="$PROJECT_DIR$/05_Conditionals_and_Loops/05_Conditionals_and_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Methods/06_Methods.iml" filepath="$PROJECT_DIR$/06_Methods/06_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Arrays/07_Arrays.iml" filepath="$PROJECT_DIR$/07_Arrays/07_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Linear_Search/08_Linear_Search.iml" filepath="$PROJECT_DIR$/08_Linear_Search/08_Linear_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Binary_Search/09_Binary_Search.iml" filepath="$PROJECT_DIR$/09_Binary_Search/09_Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Sorting/10_Sorting.iml" filepath="$PROJECT_DIR$/10_Sorting/10_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Strings/11_Strings.iml" filepath="$PROJECT_DIR$/11_Strings/11_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Patterns/12_Patterns.iml" filepath="$PROJECT_DIR$/12_Patterns/12_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Recursion/13_Recursion.iml" filepath="$PROJECT_DIR$/13_Recursion/13_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_Time_Space_Complexity/14_Time_Space_Complexity.iml" filepath="$PROJECT_DIR$/14_Time_Space_Complexity/14_Time_Space_Complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_MathsForDSA/15_MathsForDSA.iml" filepath="$PROJECT_DIR$/15_MathsForDSA/15_MathsForDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_OOPS/16_OOPS.iml" filepath="$PROJECT_DIR$/16_OOPS/16_OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_LinkedList/17_LinkedList.iml" filepath="$PROJECT_DIR$/17_LinkedList/17_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Stacks_n_Queues/18_Stacks_n_Queues.iml" filepath="$PROJECT_DIR$/18_Stacks_n_Queues/18_Stacks_n_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+    </modules>
+  </component>
+</project>
